@@ -1,7 +1,7 @@
 # CIS-3238-Project
 
-Right now, my project code that I've committed concerns many of the classes I will need.
+Ignore the Java files, they are from a previous design. I will remove them soon.
 
-Running the PoSDemo.java file will test the functionality of the classes.
+In the mean time, check out the "SimplePointofSale.zip" for the current files. 
 
-I will develop more modules and tests in the next week (ending 10/16/2016).
+To run them, if you want, you need to have Visual Studio 2015 installed.
